@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gaberial31.gaberial31">
 <br>
 <h3 align="center">
   Hello there, I'm Rahul 👋
@@ -17,7 +17,7 @@
   <br>
   🔬 I'm currently studying for a Bachelor of Computer Applications in Banglore central University Computer Engineering Department
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  🎓 I graduated from B.D Memorial English Higher Secondry School
   <br>
   💻 I love writing code and learn anythings about it
   <br>

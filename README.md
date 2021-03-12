@@ -6,7 +6,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/rahul-alam-a4a767170/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.facebook.com/mdrahulalam/" title="Facebook Profile"><img width="22" src="https://www.freepik.com/free-icon/facebook_928938.htm#page=1&query=facebook%20logo&position=4"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/da.rahulalam/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>

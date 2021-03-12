@@ -6,7 +6,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/rahul-alam-a4a767170/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.facebook.com/mdrahulalam/" title="Facebook Profile"><img width="22" src="https://github.com/gaberial31/gaberial31/blob/master/images/facebook.png"> Facebook Profile</a></code>
+  <code><a href="https://www.facebook.com/mdrahulalam/" title="Facebook Profile"><img width="22" src="https://github.com/gaberial31/gaberial31/blob/master/images/facebook.png"> Facebook</a></code>
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/da.rahulalam/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
@@ -17,18 +17,28 @@
   <br>
   🔬 I'm currently studying for a Bachelor of Computer Applications in Banglore central University Computer Engineering Department
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
   🎓 I graduated from Erzurum İbrahim Hakkı Science High School
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I’m currently learning how to build E-Commerce Website with Laravel & REST API's with flutter
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/gaberial31/gaberial31/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: ... message me in any of my social site...
 </p>
+
+<hr>
+
+
+- 🔭 I’m currently working on Laravel and Flutter...
+- 🌱 I’m currently learning REST API'S...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...Drop a message to any of my social site
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <hr>
 
